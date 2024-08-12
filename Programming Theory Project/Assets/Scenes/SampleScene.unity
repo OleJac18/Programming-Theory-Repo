@@ -266,6 +266,7 @@ Transform:
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &1786665122
 GameObject:
   m_ObjectHideFlags: 0
@@ -349,5 +350,7 @@ SceneRoots:
   - {fileID: 705507995}
   - {fileID: 501234544}
   - {fileID: 467736083}
+=======
+>>>>>>> parent of e55a8b3 (title screen)
 =======
 >>>>>>> parent of e55a8b3 (title screen)

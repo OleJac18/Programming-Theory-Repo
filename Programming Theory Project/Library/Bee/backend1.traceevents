@@ -1,5 +1,6 @@
 { "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
 <<<<<<< HEAD
+<<<<<<< HEAD
 ,{ "pid":12345, "tid":0, "ts":1723482438332799, "dur":998, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
 ,{ "pid":12345, "tid":0, "ts":1723482438333804, "dur":216, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
 ,{ "pid":12345, "tid":0, "ts":1723482438334067, "dur":268, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
@@ -488,6 +489,8 @@
 ,{ "pid":12345, "tid":16, "ts":1723482438350777, "dur":27324, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
 ,{ "pid":12345, "tid":0, "ts":1723482438380652, "dur":898, "ph":"X", "name": "ProfilerWriteOutput" }
 =======
+=======
+>>>>>>> parent of e55a8b3 (title screen)
 ,{ "pid":12345, "tid":0, "ts":1723380516355944, "dur":1180, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
 ,{ "pid":12345, "tid":0, "ts":1723380516357132, "dur":217, "ph":"X", "name": "RemoveStaleOutputs",  "args": { "detail":"" }}
 ,{ "pid":12345, "tid":0, "ts":1723380516357398, "dur":263, "ph":"X", "name": "BuildQueueInit",  "args": { "detail":"" }}
@@ -737,5 +740,8 @@
 ,{ "pid":12345, "tid":16, "ts":1723380516372247, "dur":2071, "ph":"X", "name": "EarlyStatNonGeneratedFile",  "args": { "detail":"" }}
 ,{ "pid":12345, "tid":16, "ts":1723380516374319, "dur":23903, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
 ,{ "pid":12345, "tid":0, "ts":1723380516445760, "dur":647, "ph":"X", "name": "ProfilerWriteOutput" }
+<<<<<<< HEAD
+>>>>>>> parent of e55a8b3 (title screen)
+=======
 >>>>>>> parent of e55a8b3 (title screen)
 ,
